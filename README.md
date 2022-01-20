@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Hello :earth_americas:! Welcome to my Github. <br>
 I am currently pursuing programming opportunities with an emphasis on Python, PostgreSQL, Devops. <br>
-See my repository for the collection of recent projects I've programmed. <br>
+See my repository for a collection of projects I've programmed. <br>
 Want to know more of what I have to offer? <br>
 Let's connect! :phone:
