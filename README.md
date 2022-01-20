@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello :earth_americas:! Welcome to my Github. Let's connect! :phone:
+Hello :earth_americas:! Welcome to my Github. 
+I am currently pursuing programming opportunities with an emphasis on Python, PostgreSQL, Devops. Let's connect!
+See my repository for a collection of recent projects I've programmed.
+Wanna know more of what I have to offer?
+Let's connect! :phone:
