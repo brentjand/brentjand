@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello :earth_americas:! Welcome to my Github. <br>
-I am currently pursuing programming opportunities with an emphasis on Python, PostgreSQL, Devops. <br>
-See my repository for a collection of projects I've programmed. <br>
-Want to know more of what I have to offer? <br>
-Let's connect! :phone:
+
+A recent graduate of Nucamp's Modern Software Engineering Backend, SQL, and Devops with Python Coding Bootcamp in 2021, receiving a Certificate of Honor. <br>
+
+In my current role, I create digital footprints of retail space using customized CAD software and provide in depth data analysis <br>
+leading to lasting impacts for my organization. <br>
+
+Want to know more about me and the tools I have to offer? Let's connect! :phone: <br>
