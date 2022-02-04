@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A recent graduate of Nucamp's Modern Software Engineering Backend, SQL, and Devops with Python Coding Bootcamp in 2021, receiving a Certificate of Honor. <br>
 
 In my current role, I create digital footprints of retail space using customized CAD software and provide in depth data analysis <br>
 leading to lasting impacts for my organization. <br>
+
+I'm currently building my portfolio with various Python coding projects to help optimize my workflows and delvelop a deeper knowledge of database design and implementation. <br>
 
 Want to know more about me and the tools I have to offer? Let's connect! :phone: <br>
