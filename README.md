@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In my current role, I create digital footprints of retail space using customized CAD software and provide in depth data analysis <br>
-leading to lasting impacts for my organization. <br>
+In my current role, I create digital footprints of retail space using JDA Space Planning Software and provide in depth data analysis <br>
+using IBM Cognos Databases leading to lasting impacts for my organization. <br>
 
 I'm currently building my portfolio with various Python coding projects to help optimize my workflows and delvelop a deeper knowledge of database design and implementation. <br>
 
