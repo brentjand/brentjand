@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 In my current role, I create digital footprints of retail space using JDA Space Planning Software and provide in depth data analysis <br>
 using IBM Cognos Databases leading to lasting impacts for my organization. <br>
 
-I'm currently utilizing Python to help automate my daily workflows and develop database implementations. <br>
+Currently, I'm utilizing Python to help automate daily workflows and develop database implementations. <br>
 
 Want to know more about me and the tools I have to offer? Let's connect! :phone: <br>
