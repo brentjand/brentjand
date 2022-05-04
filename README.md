@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My current role is a Technical Consultant at RELEX Solutions helping to provide retail optimization solutions for the worlds leading retailers! Take your core retail processes to the next level. Optimize your demand planning, merchandising, supply chain, and retail operations with RELEX.
+My current role is Technical Consultant at RELEX Solutions helping to provide retail optimization solutions for the worlds leading retailers! Take your core retail processes to the next level. Optimize your demand planning, merchandising, supply chain, and retail operations with RELEX.
 <br>
 Currently, I'm utilizing Python to help automate daily workflows and develop database implementations. <br>
 
