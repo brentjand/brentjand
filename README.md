@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In my current role, I create digital footprints of retail space using JDA Space Planning Software and provide in depth data analysis <br>
-using IBM Cognos Databases leading to lasting impacts for my organization. <br>
 
+My current role is a Technical Consultant at RELEX Solutions helping to provide retail optimization solutions for the worlds leading retailers! Take your core retail processes to the next level. Optimize your demand planning, merchandising, supply chain, and retail operations with RELEX.
+<br>
 Currently, I'm utilizing Python to help automate daily workflows and develop database implementations. <br>
 
 Want to know more about me and the tools I have to offer? Let's connect! :phone: <br>
