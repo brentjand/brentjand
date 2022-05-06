@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Welcome to my programming portfolio! <br/>
 
-Throughout this repository you will find various projects that I've programmed with Python to help automate daily workflows and configure database implementations. <br/>
+Throughout this repository you will find various projects that I've been working on to help automate daily workflows and configure database implementations. <br/>
 
 Want to know more about me and the tools I have to offer? Let's connect! :phone: <br>
